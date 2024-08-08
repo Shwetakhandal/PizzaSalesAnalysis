@@ -1,2 +1,2 @@
 # PizzaSalesAnalysis
-In this project,I transformed raw data into insightful visualizations, enabling better understanding and decision-making regarding the company's performance metrics.
+Welcome to the xyz's Sales Analysis Dashboard! This powerful tool provides a comprehensive overview of our pizza sales performance. We explored key metrics such as daily sales figures, top-selling pizzas, seasonal trends, and customer preferences. With intuitive visualizations and real-time data, our dashboard offers valuable insights to drive strategic decisions, optimize operations, and enhance customer satisfaction.
